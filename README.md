@@ -10,3 +10,11 @@ sudo apt install git-core gnupg flex bison gperf build-essential zip curl zlib1g
 sudo apt-get install make gcc unzip zlib1g-dev libncurses5-dev gawk subversion libssl-dev git g++
 
 sudo apt-get install gcc-arm-linux-gnueabi make git-core ncurses-dev
+
+sudo apt-get install gcc-8-arm-linux-gnueabi
+
+sudo apt-get install gcc-aarch64-linux-gnu
+
+sudo apt-get install binutils-aarch64-linux-gnu
+
+sudo apt-get install gcc-arm-linux-gnueabi make git-core ncurses-dev
