@@ -7,4 +7,4 @@ sudo apt-get install -y  libncurses5-dev
     
     sudo apt-get install flex ncurses-dev gcc gperf patch libtool  g++ libncurses5-dev libgcc1 libcap-dev libgmp-dev gcc-multilib g++-multilib libmpc-dev libmpfr-dev
 
-sudo apt install clang bc aarch64-linux-gnu-gcc binutils-aarch64-linux-gnu gcc-aarch64-linux-gnu gcc-arm-linux-gnueabi ncurses-dev 
+sudo apt install clang bc gcc-aarch64-linux-gnu binutils-aarch64-linux-gnu gcc-aarch64-linux-gnu gcc-arm-linux-gnueabi ncurses-dev 
